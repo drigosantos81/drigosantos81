@@ -1,5 +1,10 @@
-### Hi there 👋
+### Rodrigo Emanuel
 
+- 🌱 I’m currently learning JavaScript and Java to Backend projects
+- ⚙️ I use daily: `.js`, `.html`, `.css`.
+
+#### Linkedin: https://www.linkedin.com/in/rodrigo81
+#### E-mail: drigosantos@gmail.com
 <!--
 **drigosantos81/drigosantos81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
