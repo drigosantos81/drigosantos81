@@ -1,10 +1,14 @@
-### Rodrigo Emanuel
+## Rodrigo Emanuel
 
-- 🌱 I’m currently learning JavaScript and Java to Backend projects
-- ⚙️ I use daily: `.js`, `.html`, `.css`.
+Olá!, bem-vindos ao meu repositório Git e aproveite para conhecer minhas outras redes!
 
-#### Linkedin: https://www.linkedin.com/in/rodrigo81
-#### E-mail: drigosantos@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-drigosantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drigosantos@gmail.com)](mailto:drigosantos@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-rodrigo81-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo81/)](https://www.linkedin.com/in/rodrigo81/) ![Twitter Badge](https://img.shields.io/badge/-@drigosantos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/drigosantos)
+
+Sou formado em Sistemas de Informação desde 2010 e após 10 anos fora da área de TI, resolvi dar uma virada na carreira, resgatar meu diploma e me reeinserir como desenvolvedor de sistemas. Desde então estou participando de diversos cursos on-line imersivos, além de estrar cursando o Bootcamp da Rocketseat, um curso completo de desenvolvimento de sistemas com todos os fundamentos de JavaScript, HTML e CSS voltados para qualificação de um programador completo.
+
+- 🌱 Atualmente estou aprendendo JavaScript e Java para o Back-end de projetos.
+- ⚙️ Diariamente eu uso: `.js`, `.html`, `.css` and a little bit of `.java`.
+
 <!--
 **drigosantos81/drigosantos81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
