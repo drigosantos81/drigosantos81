@@ -7,7 +7,7 @@ Olá! Sejá bem-vindo ao meu repositório Git. Aproveite para conhecer minhas ou
 Sou formado em Sistemas de Informação desde 2010 e após 10 anos fora da área de TI, resolvi dar uma virada na carreira, resgatar meu diploma e me reeinserir como desenvolvedor de sistemas. Desde então estou participando de diversos cursos on-line imersivos, além de estrar cursando o Bootcamp da Rocketseat, um curso completo de desenvolvimento de sistemas com todos os fundamentos de JavaScript, HTML e CSS voltados para qualificação de um programador completo.
 
 - 🌱 Atualmente estou aprendendo JavaScript e Java para o Back-end de projetos.
-- ⚙️ Diariamente eu uso: `.js`, `.html`, `.css` and a little bit of `.java`. 😄`SQL`.
+- ⚙️ Diariamente eu uso: `js`, `html`, `css` a little bit of `java` and `SQL😄`.
 
 <!--
 **drigosantos81/drigosantos81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
