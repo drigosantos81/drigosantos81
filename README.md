@@ -30,10 +30,8 @@ Sou formado em Sistemas de Informação desde 2010 e após alguns anos trabalhan
   
  ##
 <!--
-  <div> 
-
+  <div>
     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
   </div>
 -->
 <!--
@@ -49,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> .
+-->
