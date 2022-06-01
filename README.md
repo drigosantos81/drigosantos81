@@ -29,12 +29,13 @@ Sou formado em Sistemas de Informação desde 2010 e após alguns anos trabalhan
 </div>
   
  ##
+<!--
+  <div> 
 
-<div> 
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
+-->
 <!--
 **drigosantos81/drigosantos81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
